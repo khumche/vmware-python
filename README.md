@@ -7,7 +7,7 @@ NicChanger.py - network card swapping script
 python 2.6+
 http://vmware.github.io/pyvmomi-community-samples/
 
-# NicChanger.py
+### NicChanger.py
 Based on available sample scripts from 
 https://github.com/vmware/pyvmomi
 
