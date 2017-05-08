@@ -14,12 +14,6 @@ import getpass
 import ssl
 import csv
 
-hostname = "vcenter01p.cixp.xcl.ie"
-username = ""
-password = ""
-port = 443
-
-
 def GetArgs():
     """
     Supports the command-line arguments listed below.
